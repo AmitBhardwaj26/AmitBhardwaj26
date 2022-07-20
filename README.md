@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)]
+![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <h1 align="center">Hi 👋, I'm Amit Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://previews.123rf.com/images/shaihalud/shaihalud1706/shaihalud170600042/80493602-picture-of-a-smart-programmer-man-joggling-with-programming-languages-and-technologies-cartoon-chara.jpg"> 
@@ -42,7 +42,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitbhardwaj26&show_icons=true&locale=en" alt="amitbhardwaj26" /></p>
 
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitbhardwaj26&" alt="amitbhardwaj26" /></p>
 
