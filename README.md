@@ -1,7 +1,8 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <h1 align="center">Hi 👋, I'm Amit Bhardwaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://previews.123rf.com/images/shaihalud/shaihalud1706/shaihalud170600042/80493602-picture-of-a-smart-programmer-man-joggling-with-programming-languages-and-technologies-cartoon-chara.jpg"> 
+- 👀 I’m interested in SDE Role
 
 - 🔭 I’m currently working on **Backend Development**
 
@@ -9,7 +10,7 @@
 
 - 💬 Ask me about **CP and Programming**
 
-- 📫 How to reach me **amitbhardwaj2609@gmail.com**
+- 📫 How to reach me https://www.linkedin.com/in/amit-bhardwaj-a46519200/
 
 
 <br>
